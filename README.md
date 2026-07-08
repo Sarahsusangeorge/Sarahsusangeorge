@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sarah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=CS+undergrad+at+VIT;Building+weird+little+AI+things;Design+brain+%2B+engineer+brain;Currently+debugging+something%2C+probably" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=CS+undergrad+at+VIT;Building+weird+little+AI+things;Engineer+brain+%2B+design+brain;Currently+debugging+something%2C+probably" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,7 +53,8 @@ Outside of code, I'm probably:
 
 ### Currently
 
-- Finishing my B.Tech at VIT (2023–2027), CGPA 8.19/10
+- Finishing my B.Tech at VIT (2023–2027)
+- Design Lead, Google Developers Groups (GDG) VIT
 - Oracle OCI Generative AI Professional certified
 - Senior Core Member, Toastmasters Club VIT: sharpening the public-speaking skill tree
 
